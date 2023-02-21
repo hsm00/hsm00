@@ -64,16 +64,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsm00&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-  
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=u8xhamzbcnwpw252rnpw0c8zl&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
