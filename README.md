@@ -60,11 +60,7 @@
 <a href="https://linkedin.com/in/hesam-hatami-06b123242" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=u8xhamzbcnwpw252rnpw0c8zl&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
+</div>   
 
 <br/>  
 
